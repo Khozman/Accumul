@@ -2,7 +2,7 @@ package kata.Accumul;
 
 public class Accumul {
     public static void main(String[] args) {
-        String str = "Lunga";
+        String str = "Bhekinkosi";
         String strLower = str.toLowerCase();
         int numberOfChar = str.length();
 
